@@ -35,7 +35,7 @@ Using this data, I wanted to create this visualization for public, as I was surp
 After experimenting with map and bar chart for this data, I chose line graph for this data for plotting all available countries across available years. Though a choropleth map was a suitable visualization for this data, however as the available data is only available for around 35 countries, the countries for which data is not available displayed simple gray color. I realized that this could divert the focus from the main takeaway and might look misleading as well. 
 
 I wanted to highlight in this visualization that Japan has been on top, and kind of like an outlier, in terms of debt to GDP ratio, for almost two decades. Greece and Italy have recorded sharp increase in their debt to GDP ratio since 2011 as well.
-![image](https://github.com/usr1995/Rauf_Portfolio/assets/123138997/f132ae63-6bc3-4494-9632-aed343fec005)
+
 
 
 
