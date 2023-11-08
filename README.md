@@ -26,10 +26,8 @@ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.
 var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
-
-## Assignment: [Visualizing Government Debt](visualizing debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
