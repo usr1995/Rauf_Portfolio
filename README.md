@@ -15,20 +15,10 @@ Moreover, as I plan to work in the public policy sphere after i graduate, data v
 Additionally, public policies impact millions of lives. I can use my data visualization skills to help policymakers understand complex datasets, making it easier to make decisions that are well-informed and evidence-based.
 
 
-1. List item #1
-2. List item #2
-3. List item #3
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
