@@ -15,9 +15,12 @@ Moreover, as I plan to work in the public policy sphere after i graduate, data v
 Additionally, public policies impact millions of lives. I can use my data visualization skills to help policymakers understand complex datasets, making it easier to make decisions that are well-informed and evidence-based.
 
 
+## OECD graph 
+<iframe src="https://data.oecd.org/chart/7fbc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fbc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 
-# Portfolio
+
+
 
 
 ## Assignment: [Visualizing Government Debt](visualizing debt)
@@ -31,10 +34,6 @@ Here it might be helpful to include a high-level description of your final proje
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
-
-## OECD
-
-<iframe src="https://data.oecd.org/chart/7fbc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fbc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 
 ---
