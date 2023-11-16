@@ -46,7 +46,7 @@ I wanted to highlight in this visualization that Japan has been on top, and kind
 
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](Critique-by-Design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
