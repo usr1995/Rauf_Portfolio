@@ -23,9 +23,8 @@ You can include screenshots, sketches or other artifacts with your narrative to 
 
 My first thought after critiquing this visualization was that main take away of this visualization is being blurred by the overload of information. I though I only need to foucs on the change in production levels of top countries both in 1981 and 2021. I created my sketch only to highlight this trend. 
 Though I could highlight this in my sketch, but after getting the feedback, I realized it is also important to capture the historical information to give context to the viewer. 
-this was my sketch: 
 
-![sketch](/path/to/image.png)
+
 
 MY first critique came from a friend, who is also a batch mate. She is 28 years old. 
 My first critique response on my sketch was like this
