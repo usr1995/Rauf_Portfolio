@@ -41,9 +41,9 @@ I wanted to highlight in this visualization that Japan has been on top, and kind
 
 
 
+[My Analysis](analysis.md)
 
 
-## Assignment: [critique by design](critique by design)
 
 
 
