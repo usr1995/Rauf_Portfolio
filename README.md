@@ -44,6 +44,8 @@ I wanted to highlight in this visualization that Japan has been on top, and kind
 [critique-by-desgin](critique-by-design.md)
 
 
+## Final Project [Final-Project] (Final-Project.md)
+
 
 
 
