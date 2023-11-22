@@ -44,7 +44,6 @@ I wanted to highlight in this visualization that Japan has been on top, and kind
 [critique-by-desgin](critique-by-design.md)
 
 
-## Final Project [Final-Project] (Final-Project.md)
 
 
 
@@ -53,7 +52,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
