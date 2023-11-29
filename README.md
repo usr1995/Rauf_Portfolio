@@ -31,8 +31,7 @@ var scriptElement = document.createElement('script'); scriptElement.src = 'https
 
 
 
-## Assignment 3&4
-[critique-by-desgin](critique-by-design.md)
+## Assignment 3&4 [critique-by-desgin](critique-by-design.md)
 
 
 
