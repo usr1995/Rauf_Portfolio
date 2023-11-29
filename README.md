@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU! 
 
@@ -25,7 +25,7 @@ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.
 var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';    vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 
 
 
