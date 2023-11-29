@@ -27,15 +27,6 @@ var scriptElement = document.createElement('script'); scriptElement.src = 'https
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
-## Summary
-Source of the dataset in the visualization is The Organization for Economic Co-operation and Development (OECD). The dataset has government debt to GDP ratio for 35 countries from 1995 to 2019. Government debt to GDP ratio signifies debt sustainability for a country. 
-
-Using this data, I wanted to create this visualization for public, as I was surprised to see that Japan has the highest debt to GDP ratio in the world. I have always seen discussion on China and USA, in terms of global debt. As the data on Japan was only available until 2017, and I really wanted to highlight Japan and the other two top countries, I truncated my data to 2017 only. I looked up if there was any reversal in trends for Japan for 2018 and 2019, however Japan maintained the trend of being on top in 2018 and 2019 as well. So, I thought it reasonable to truncate my data to convey my message reasonably well. 
-
-After experimenting with map and bar chart for this data, I chose line graph for this data for plotting all available countries across available years. Though a choropleth map was a suitable visualization for this data, however as the available data is only available for around 35 countries, the countries for which data is not available displayed simple gray color. I realized that this could divert the focus from the main takeaway and might look misleading as well. 
-
-I wanted to highlight in this visualization that Japan has been on top, and kind of like an outlier, in terms of debt to GDP ratio, for almost two decades. Greece and Italy have recorded sharp increase in their debt to GDP ratio since 2011 as well.
-
 
 
 
