@@ -38,7 +38,7 @@ var scriptElement = document.createElement('script'); scriptElement.src = 'https
 
 
 
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
 
 
 ## Final project
