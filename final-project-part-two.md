@@ -1,8 +1,8 @@
 ## 1. Wireframes and storyboards
 My shorthand draft can be found at the following link.
-https://preview.shorthand.com/AtfFFuvWd8y5Ia7H
+[https://preview.shorthand.com/AtfFFuvWd8y5Ia7H](https://carnegie-mellon.shorthandstories.com/unwrapping-the-challenge-of-food-waste-in-the-united-states/)
 
-I was confused if i should publish my story or only give my preview link. SO, i tried to open the preview link on another browser,and it worked, so i shared the preview link. 
+
 
 ## 2. User research protocol
 
