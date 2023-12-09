@@ -1,3 +1,4 @@
+
 | [Home Page](home-page) |
 | [Visualizing Debt](visualizing-government-debt.md) |
 | [Critique by Design](critique-by-design.md) |
