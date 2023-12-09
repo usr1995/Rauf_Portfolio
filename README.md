@@ -24,3 +24,7 @@ This is my public portfolio for Telling Stories with Data at CMU! Here's where a
 
 ## What I hope to learn
 I hope to learn new skills about data Visualization. 
+
+## Portfolio
+
+## Examples
