@@ -30,9 +30,10 @@ I also modified my call of action part. In my part 2, there was a lot of text in
 
 In part 3, I also added sources for all the photos that i had used.  
 
+I also added some major sections, like when i finished talking about the scale of the food waste in USA, I put in a heading style "The other side of story" to indicate to the audience that now we would talk about something different/opposite. In this section I wanted to highlight the other side, which doesn't even get enough food to survive in the same country where there the scale of food waste is huge.I also introduced another section for switching course towards "call to action" part. I put in a new heading here, "From Awareness to Action", to guide the viewer towards the action part. 
 
-more use of canva
-call of action, more direct
-iconarray
-added this new info
-new visualizations with new data in tableu
+
+
+To me, it seems like most of the work I have done in part 3, and for part 2 though i did work on the story alot but i had been unable to shape it properly. I was way distracted in my part 2, and was not focused much in terms of content.  Overall, part 3 this has been an amazing learning experience in putting together everything in a better way. 
+
+
