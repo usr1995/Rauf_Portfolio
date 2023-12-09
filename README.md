@@ -6,7 +6,7 @@ Welcome to my portfolio! This is where I showcase my projects and share my journ
 
 - [Home Page](#)
 - [Visualizing Debt](#)
-- [Critique by Design](#)
+- [Critique by Design](critique-by-design.md)
 - [Final Project I](#)
 - [Final Project II](#)
 - [Final Project III](#)
