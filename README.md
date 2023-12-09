@@ -1,6 +1,6 @@
 # UzmaRauf-Portfolio
 
-Welcome to my portfolio! This is where I showcase my projects and share my journey in visualizing data.
+Welcome to my portfolio! This is my public portfolio for Telling Stories with Data at Carnegie Mellon University.
 
 ## Portfolio Projects
 
