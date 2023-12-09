@@ -29,5 +29,5 @@ I hope to learn new skills about data Visualization.
 
 ## Examples
 Assignment: [Visualizing Govt Debt](#visualizing-government-debt.md)
-
+Assignment 3 & 4: [Critique by Design](#critique-by-design.md)
 
