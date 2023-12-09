@@ -7,7 +7,7 @@ Welcome to my portfolio! This is my public portfolio for Telling Stories with Da
 
 
 | [Home Page](#home-page) |
-| [Visualizing Debt](#visualizing-debt) |
+| [Visualizing Debt](#visualizing-government-debt.md) |
 | [Critique by Design](#critique-by-design) |
 | [Final Project I](#final-project-i)   |
 | [Final Project II](#final-project-ii) |
