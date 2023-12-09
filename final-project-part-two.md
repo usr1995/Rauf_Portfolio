@@ -6,6 +6,8 @@
 | [Final Project III](final-project-part-three.md) |
 
 
+
+
 ## 1. Wireframes and storyboards
 My shorthand draft can be found at the following link.
 [https://preview.shorthand.com/AtfFFuvWd8y5Ia7H](https://carnegie-mellon.shorthandstories.com/unwrapping-the-challenge-of-food-waste-in-the-united-states/)
