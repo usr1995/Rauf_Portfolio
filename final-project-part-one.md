@@ -1,5 +1,5 @@
 
-| [Home Page]((https://usr1995.github.io/Rauf_Portfolio/))
+| [Home Page](https://usr1995.github.io/Rauf_Portfolio/) |
 | [Visualizing Debt](visualizing-government-debt.md) |
 | [Critique by Design](critique-by-design.md) |
 | [Final Project II](final-project-part-two.md) |
