@@ -21,3 +21,6 @@ Welcome to my portfolio! This is my public portfolio for Telling Stories with Da
 ## About Me
 
 This is my public portfolio for Telling Stories with Data at CMU! Here's where all my cool work will go. You should probably (read: definitely) hire me.
+
+## What I hope to learn
+I hope to learn new skills about data Visualization. 
