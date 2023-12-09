@@ -1,4 +1,4 @@
-| [Home Page](home-page) |
+| [Home Page]((https://usr1995.github.io/Rauf_Portfolio/))
 | [Visualizing Debt](visualizing-government-debt.md) |
 | [Final Project I](final-project-part-one.md)   |
 | [Final Project II](final-project-part-two.md) |
