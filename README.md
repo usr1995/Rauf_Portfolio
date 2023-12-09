@@ -4,9 +4,7 @@ Welcome to my portfolio! This is my public portfolio for Telling Stories with Da
 
 ## Portfolio Projects
 
-
-
-| [Home Page](home-page) |
+| [Home Page]((https://usr1995.github.io/Rauf_Portfolio/))
 | [Visualizing Debt](visualizing-government-debt.md) |
 | [Critique by Design](critique-by-design.md) |
 | [Final Project I](final-project-part-one.md)   |
