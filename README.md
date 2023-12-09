@@ -8,7 +8,7 @@ Welcome to my portfolio! This is where I showcase my projects and share my journ
 - [Visualizing Debt](#)
 - [Critique by Design](critique-by-design.md)
 - [Final Project I](final-project-part-one.md)
-- [Final Project II](#)
+- [Final Project II](final-project-part-two.md)
 - [Final Project III](#)
 
 ## TSWD-portfolio-templates
