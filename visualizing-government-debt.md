@@ -1,4 +1,4 @@
-| [Home Page]((https://usr1995.github.io/Rauf_Portfolio/))
+| [Home Page](https://usr1995.github.io/Rauf_Portfolio/) |
 | [Final Project I](final-project-part-one.md)   |
 | [Final Project II](final-project-part-two.md) |
 | [Final Project III](final-project-part-three.md) |
