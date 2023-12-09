@@ -8,10 +8,10 @@ Welcome to my portfolio! This is my public portfolio for Telling Stories with Da
 
 | [Home Page](#home-page) |
 | [Visualizing Debt](#visualizing-government-debt.md) |
-| [Critique by Design](#critique-by-design) |
-| [Final Project I](#final-project-i)   |
-| [Final Project II](#final-project-ii) |
-| [Final Project III](#final-project-iii) |
+| [Critique by Design](#critique-by-design.md) |
+| [Final Project I](#final-project-part-one.md)   |
+| [Final Project II](#final-project-part-two.md) |
+| [Final Project III](#final-project-part-three.md) |
 
 ## TSWD-portfolio-templates
 
