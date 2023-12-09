@@ -5,7 +5,7 @@ Welcome to my portfolio! This is my public portfolio for Telling Stories with Da
 ## Portfolio Projects
 
 - [Home Page](#)
-- [Visualizing Debt](#)
+- [Visualizing Debt]( visualizing-government-debt.md)
 - [Critique by Design](critique-by-design.md)
 - [Final Project I](final-project-part-one.md)
 - [Final Project II](final-project-part-two.md)
