@@ -31,3 +31,5 @@ I hope to learn new skills about data Visualization.
 Assignment: [Visualizing Govt Debt](#visualizing-government-debt.md)
 Assignment 3 & 4: [Critique by Design](#critique-by-design.md)
 
+## Final project
+For my final project, I have explored the issue of food waste in United States. Issue of food wasted demands our attention and focus as this is a continuous strain on our country's resources. 
