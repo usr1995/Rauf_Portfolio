@@ -1,4 +1,13 @@
 
+| [Home Page](home-page) |
+| [Visualizing Debt](visualizing-government-debt.md) |
+| [Critique by Design](critique-by-design.md) |
+| [Final Project I](final-project-part-one.md)   |
+| [Final Project II](final-project-part-two.md) |
+| [Final Project III](final-project-part-three.md) |
+
+
+
 ## Summary: Food Wastage in United States due to confusion about food labels.
 Food wastage is a significant global issue, with substantial impacts on both the environment and economies. Global food waste is about 1.3 billion tons annually. The total food that is produced but never eaten is estimated to be sufficient to feed two billion people. On the environmental front, noting that food loss and waste, if considered a country, would rank as the third largest source of greenhouse gas emissions globally.
 
